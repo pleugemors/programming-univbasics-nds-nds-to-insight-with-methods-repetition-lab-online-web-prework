@@ -33,6 +33,7 @@ def list_of_directors(source)
     count += 1
   end
   # Write this implementation
+  puts 
   puts result
   result
 end
